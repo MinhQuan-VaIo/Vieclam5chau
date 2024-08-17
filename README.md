@@ -16,14 +16,6 @@
 
 ## Getting Started
 
-### Prerequisites
-
-To set up the project locally, ensure you have the following installed:
-
-- [Node.js](https://nodejs.org/en/download/) (for the front-end)
-- [Python](https://www.python.org/downloads/) (for the back-end, if applicable)
-- [MySQL](https://dev.mysql.com/downloads/mysql/) or any other database system you prefer
-
 ### Installation
 
 1. **Clone the Repository**
