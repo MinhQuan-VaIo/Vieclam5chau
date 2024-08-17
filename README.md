@@ -75,30 +75,22 @@ To set up the project locally, ensure you have the following installed:
 
 5. **Access the Application**
 
-   Open your web browser and navigate to `http://localhost:3000` for the front-end and `http://localhost:8000` for the back-end (if using Django, for example).
+   Open your web browser and navigate to `http://localhost:3000` for the front-end and `http://localhost:8000` for the back-end (if using Django).
 
 ## Contributing
 
 We welcome contributions to enhance Vieclam5Chau! Please follow these steps to contribute:
 
 1. Fork the repository.
-2. Create a new branch (`git checkout -b feature/YourFeature`).
+2. Create a new branch. 
 3. Make your changes.
-4. Commit your changes (`git commit -m 'Add some feature'`).
-5. Push to the branch (`git push origin feature/YourFeature`).
+4. Commit your changes.
+5. Push to the branch.
 6. Open a pull request.
 
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Contact
-
-For any inquiries or support, please reach out to:
-
-- **Email:** support@vieclam5chau.com
-- **Website:** [www.vieclam5chau.com](http://www.vieclam5chau.com)
-- **GitHub:** [Vieclam5Chau Repository](https://github.com/your-username/vieclam5chau)
 
 ## Acknowledgements
 
@@ -106,5 +98,3 @@ For any inquiries or support, please reach out to:
 - Special thanks to the open-source community for providing invaluable tools and libraries.
 
 ---
-
-*This README was generated for the Vieclam5Chau project to guide users and developers in using and contributing to the platform.*
