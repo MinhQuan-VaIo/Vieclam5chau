@@ -1,6 +1,6 @@
 # Vieclam5Chau
 
-![Vieclam5Chau Logo](path_to_logo_image) <!-- Replace with the actual path to your logo -->
+![Vieclam5Chau Logo](anh_logo.png) 
 
 ## Overview
 
