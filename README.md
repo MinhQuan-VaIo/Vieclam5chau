@@ -1,6 +1,6 @@
 # Vieclam5Chau
 
-![Vieclam5Chau Logo](anh_logo.png) 
+![Vieclam5Chau Logo](anhlogo.png) 
 
 ## Overview
 
